@@ -33,3 +33,25 @@ Interação com o usuário via Scanner
 🧾 Pagar mensalidade (débito automático baseado no tipo da conta)
 
 👀 Exibir contas cadastradas
+
+🛠️ Tecnologias Utilizadas
+
+Java 17+ (pode funcionar em versões anteriores)
+
+Paradigma de Programação Orientada a Objetos
+
+📚 Possíveis Melhorias Futuras
+
+Persistência de dados em arquivo ou banco de dados (salvar contas mesmo após encerrar o programa)
+
+Validações mais robustas (não permitir saldo negativo, impedir saque acima do disponível)
+
+Interface gráfica (JavaFX ou Swing) para melhor experiência do usuário
+
+Implementação de múltiplas contas com objetos separados (em vez de apenas listas paralelas)
+
+👨‍💻 Autor
+
+Desenvolvido por Ryan da Silva Ribeiro
+📧 Contato: [ryanpsr.rr@gmail.com]
+🔗 GitHub: https://github.com/RyanSRibeiro
